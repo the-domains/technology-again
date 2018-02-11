@@ -1,5 +1,5 @@
-layout_spectrum: 0.49027055555659504
-typography_spectrum: 0.5953415967792383
+layout_spectrum: 0.35965130798942824
+typography_spectrum: 0.320400522869025
 color:
   brandColors:
     - '#2C3E50'
@@ -7,10 +7,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  brandStrength: 0.1511991573760452
-  lightness: 0.6394240671138989
-  saturation: 0.6240965107832067
-  rhythmicContrast: 0.9445990536662537
+  brandStrength: 0.41971812938137143
+  lightness: 0.9407284944439029
+  saturation: 0.8670675013190375
+  rhythmicContrast: 0.15219430706214787
 name: the typo king
 opengraph:
   type: ''
