@@ -1,10 +1,10 @@
 ---
 title: Protect your Windows devices against Spectre and Meltdown
-datePublished: '2018-02-11T05:31:13.848Z'
-dateModified: '2018-02-11T05:31:10.159Z'
+datePublished: '2018-02-11T06:01:00.303Z'
+dateModified: '2018-02-11T06:00:57.583Z'
 publisher: {}
 author: []
-inFeed: true
+inFeed: false
 hasPage: true
 description: 'Applies to: Windows 10Windows 10 MobileWindows 8.1 More'
 via: {}
@@ -12,7 +12,7 @@ starred: false
 datePublishedOriginal: '2018-01-23T10:08:46.423Z'
 sourcePath: _posts/2018-01-23-protect-your-windows-devices-against-spectre-and-meltdown.md
 url: protect-your-windows-devices-against-spectre-and-meltdown/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Protect your Windows devices against Spectre and Meltdown
