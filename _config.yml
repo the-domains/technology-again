@@ -35,7 +35,7 @@ navigation:
   - name: Meltdown Spectrum
     url: 'https://meltdownattack.com'
     type: external
-  - name: Best Birthday Wish
+  - name: ' Birthday Wish'
     id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
     type: content
   - name: Encryption Flaw Telegram / Whatsapp
