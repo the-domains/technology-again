@@ -1,5 +1,9 @@
+name: the typo king
 layout_spectrum: 0.35965130798942824
 typography_spectrum: 0.320400522869025
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#2C3E50'
@@ -11,10 +15,6 @@ color:
   lightness: 0.9407284944439029
   saturation: 0.8670675013190375
   rhythmicContrast: 0.15219430706214787
-name: the typo king
-opengraph:
-  type: ''
-  appId: ''
 purpose:
   - type: internal
     label: Helmy
@@ -44,6 +44,12 @@ navigation:
   - name: Huawei ONT Critical Alert
     url: 'https://research.checkpoint.com/good-zero-day-skiddie/'
     type: external
+  - name: zero day
+    id: 44f8f038-b41c-41f1-bdb2-0c5c952356c0
+    type: content
+  - name: zero hour
+    id: 44f8f038-b41c-41f1-bdb2-0c5c952356c0
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -53,21 +59,17 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dc325af3bcd09f509f1de18ae1168836f87f00a
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: .s3-us-west-2.amazonaws.com
+        domain: s3-us-west-2.amazonaws.com
+        url: 'https://s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-url: 'http://thegrid.ai/mdno'
