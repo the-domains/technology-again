@@ -1,14 +1,14 @@
 ---
 title: About speculative execution vulnerabilities in ARM-based and Intel CPUs
-datePublished: '2018-02-11T11:25:47.369Z'
-dateModified: '2018-02-11T11:20:32.531Z'
+datePublished: '2018-02-11T11:30:40.652Z'
+dateModified: '2018-02-11T11:30:38.976Z'
 publisher: {}
 author:
   - name: ''
     avatar: {}
 inFeed: true
 hasPage: true
-description: Two years ago.. I noticed  redirection scripts on most sites.sllllll
+description: Two years ago.. I noticed redirection scripts on most sites.sllllll
 via: {}
 starred: false
 datePublishedOriginal: '2018-02-11T04:45:48.668Z'
@@ -20,13 +20,7 @@ _type: Article
 ---
 Two years ago.. I noticed redirection scripts on most sites.sllllll
 
-After some research . I found several flaws. The 1st vector ( spectrum) as now what they named iT.e
-
-ehe
-
-e
-
-Tee
+After some research . I found several flaws. The 1st vector ( spectrum) as now what they named it.
 
 1st thing was an exploit through injecting in system ram called Rowhammer.
 
@@ -76,6 +70,10 @@ Chrome OS
 
 ---
 
-Photo hacks via meltdown
+Photo hacks via meltdow
 
 <article style=""><h1>https://cdn.rawgit.com/IAIK/meltdown/master/videos/cat1.mp4</h1></article>
+
+---
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd4aba76199e398cec7d8b05861b550aff4d7831.jpg" /><h1>Bluetooth Vector 8.2 billions infected ; victims unaware.</h1><p>The vulnerabilities disclosed by Armis affect all devices running on Android, Linux, Windows, and pre-version 10 of iOS operating systems, regardless of the Bluetooth version in use. This means almost every computer, mobile device, smart TV or other IoT device running on one of these operating systems is endangered by at least one of the eight vulnerabilities.</p></article>
