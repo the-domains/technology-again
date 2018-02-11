@@ -35,6 +35,9 @@ navigation:
   - name: Meltdown Spectrum
     url: 'https://meltdownattack.com'
     type: external
+  - name: Best Birthday Wish
+    id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
