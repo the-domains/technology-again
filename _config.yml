@@ -1,0 +1,73 @@
+name: the typo king
+layout_spectrum: 0.607910933951838
+typography_spectrum: 0.055483926347650515
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.1629373824766994
+  lightness: 0.8583325179086279
+  saturation: 0.9857961611759545
+  rhythmicContrast: 0.08940211565178441
+purpose:
+  - type: internal
+    label: Helmy
+    item: 745ea8c5-acd9-4739-921a-d400c198a853
+  - type: internal
+    label: Direct
+    item: 745ea8c5-acd9-4739-921a-d400c198a853
+title: NOA'HOXY
+description: If Noah Than Noah
+author:
+  name: mdno
+content_rating:
+  adult: false
+navigation:
+  - name: photography
+    id: b690642f-7fb9-440d-8b9f-9e62a17c2443
+    type: content
+  - name: hyperlapse
+    id: c4578ffa-9013-47cd-8b21-2f0bc2eaded3
+    type: content
+  - name: 'Charity Work '
+    id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
+    type: content
+  - name: vulnerability exploits dates may 2017
+    id: 9a921659-5d20-40ea-8838-e7bd66f75c6b
+    type: content
+  - name: Huawei ONT Critical Alert
+    url: 'https://research.checkpoint.com/good-zero-day-skiddie/'
+    type: external
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dc325af3bcd09f509f1de18ae1168836f87f00a">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dc325af3bcd09f509f1de18ae1168836f87f00a
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
+url: 'http://thegrid.ai/mdno'
