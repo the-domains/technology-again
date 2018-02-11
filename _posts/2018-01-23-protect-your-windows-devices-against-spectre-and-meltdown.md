@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2018-02-11T00:44:57.179Z'
+dateModified: '2018-02-11T04:42:23.468Z'
 via: {}
 description: Protect your Windows devices against Spectre and Meltdown
 title: ''
 inFeed: true
 author: []
-datePublished: '2018-02-11T00:45:01.408Z'
+datePublished: '2018-02-11T04:42:25.262Z'
 sourcePath: _posts/2018-01-23-protect-your-windows-devices-against-spectre-and-meltdown.md
+datePublishedOriginal: '2018-02-11T04:42:25.262Z'
 starred: true
-datePublishedOriginal: '2018-01-23T10:08:46.423Z'
 _type: Blurb
 
 ---
