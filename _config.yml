@@ -1,20 +1,20 @@
+layout_spectrum: 0.49027055555659504
+typography_spectrum: 0.5953415967792383
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.1511991573760452
+  lightness: 0.6394240671138989
+  saturation: 0.6240965107832067
+  rhythmicContrast: 0.9445990536662537
 name: the typo king
-layout_spectrum: 0.607910933951838
-typography_spectrum: 0.055483926347650515
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.1629373824766994
-  lightness: 0.8583325179086279
-  saturation: 0.9857961611759545
-  rhythmicContrast: 0.08940211565178441
 purpose:
   - type: internal
     label: Helmy
