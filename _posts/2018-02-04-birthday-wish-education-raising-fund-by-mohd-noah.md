@@ -7,7 +7,7 @@ author: []
 inFeed: true
 description: Thank you for those who have donated generously for my bday wish.
 via: {}
-datePublished: '2018-02-11T00:44:59.709Z'
+datePublished: '2018-02-11T00:45:01.406Z'
 sourcePath: _posts/2018-02-04-birthday-wish-education-raising-fund-by-mohd-noah.md
 starred: false
 datePublishedOriginal: '2018-02-04T22:57:57.495Z'
