@@ -38,11 +38,11 @@ navigation:
   - name: 'Charity Work '
     id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
     type: content
-  - name: vulnerability exploits dates may 2017
-    id: 9a921659-5d20-40ea-8838-e7bd66f75c6b
-    type: content
   - name: zero day
     id: 44f8f038-b41c-41f1-bdb2-0c5c952356c0
+    type: content
+  - name: vulnerability exploits dates may 2017
+    id: 9a921659-5d20-40ea-8838-e7bd66f75c6b
     type: content
   - name: Huawei ONT Critical Alert
     url: 'https://research.checkpoint.com/good-zero-day-skiddie/'
