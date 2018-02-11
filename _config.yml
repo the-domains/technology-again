@@ -35,14 +35,14 @@ navigation:
   - name: Meltdown Spectrum
     url: 'https://meltdownattack.com'
     type: external
-  - name: ' Birthday Wish'
-    id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
+  - name: Blueborne Spectrum
+    id: ccd71dd6-b83e-494f-bd1f-3c081d511fb9
     type: content
   - name: Encryption Flaw Telegram / Whatsapp
     id: 9a921659-5d20-40ea-8838-e7bd66f75c6b
     type: content
-  - name: Blueborne Spectrum
-    id: ccd71dd6-b83e-494f-bd1f-3c081d511fb9
+  - name: ' Birthday Wish'
+    id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
