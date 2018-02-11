@@ -2,7 +2,7 @@
 inFeed: true
 description: 'education fund raising for children and teens https://t.co/aLcNH9y8L6'
 dateModified: '2018-02-11T00:44:57.179Z'
-datePublished: '2018-02-11T00:44:59.787Z'
+datePublished: '2018-02-11T00:45:01.486Z'
 title: ''
 author:
   - name: sgnotime
