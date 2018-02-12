@@ -4,9 +4,9 @@
         <description><![CDATA[NOA'HOXY]]></description>
         <link>https://thegrid.ai/mdno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Feb 2018 16:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2018 21:01:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mdno/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Feb 2018 16:48:46 GMT</pubDate>
+        <pubDate>Mon, 12 Feb 2018 21:01:06 GMT</pubDate>
         <item>
             <title><![CDATA[Birthday Wish - Education Raising Fund by Mohd Noah]]></title>
             <description><![CDATA[<p>Thank you for those who have donated generously for my bday wish.</p>,<p> the lowest peak of my time. A time I believe giving back to society.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5593bfe49af8ae6d5e9749192c5f489e/noop?input=https%3A%2F%2Fwww.giving.sg%2Fimage%2Flogo%3Fimg_id%3D3372878"><h1>Birthday Wish - Education Raising Fund by Mohd Noah</h1><p>During my birthday 10 years ago. I wanted to persue my studies in Information Technology. My family could not afford to kick start the fee nor the daily expenditure . Yaysan Mendaki provided the schools fees ( 2800dlr ) for the 1st installment ..</p></article>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Mon, 29 Jan 2018 21:14:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ The Newest Mobile Service Provider in Singapore]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/366e42daebedb73ad9374b367b67ceff/noop.png?input=https%3A%2F%2Fzero1.sg%2Fwp-content%2Fuploads%2F2018%2F02%2Fzero1-logo.png"><h1> Unlimted Data Sim 19dlr No Contract </h1><p>We started off as mobile users like you and we are now Zero1, the latest mobile service provider in Singapore. We understand what mobile users want and that&apos;s unlimited data. We believe there is a better way to enjoy mobile services through better partnership, better networks and better content.</p></article>,<h1> The Newest Mobile Service Provider in Singapore</h1>]]></description>
+            <link>https://zero1.sg/about-us/</link>
+            <guid isPermaLink="false">785581c3-f340-4f94-8b31-1f3aa019f165</guid>
+            <pubDate>Mon, 12 Feb 2018 21:01:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meltdown and Spectre: Are Symantec Products Affected?]]></title>
             <description><![CDATA[<article><h1>Meltdown and Spectre: Are Symantec Products Affected?</h1><img src="https://www.symantec.com/content/dam/symantec/images/common/symantec-logo-top.png"></article>]]></description>
             <link>https://support.symantec.com/en_US/article.INFO4793.html</link>
@@ -69,13 +76,6 @@
             <link>https://support.apple.com/en-us/HT208394</link>
             <guid isPermaLink="false">c02c8493-d939-4efb-ac8d-82392c9517bd</guid>
             <pubDate>Mon, 12 Feb 2018 16:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bluetooth Vector 8.2 billions infected ; victims unaware. ]]></title>
-            <description><![CDATA[<h3><strong>Bluetooth Vector 8.2 billions infected ; victims unaware. </strong></h3>,<p>The vulnerabilities disclosed by Armis affect all devices running on Android, Linux, Windows, and pre-version 10 of iOS operating systems, regardless of the Bluetooth version in use. This means almost every computer, mobile device, smart TV or other IoT device running on one of these operating systems is endangered by at least one of the eight vulnerabilities. This covers a significant portion of all connected devices globally.</p>,<h3><strong>What Devices Are Affected?</strong></h3>,<p><strong>Android</strong><br>All Android phones, tablets, and wearables (except those using only Bluetooth Low Energy) of all versions are affected by four vulnerabilities found in the Android operating system, two of which allow remote code execution (CVE-2017-0781 and CVE-2017-0782), one results in information leak (CVE-2017-0785) and the last allows an attacker to perform a Man-in-The-Middle attack (CVE-2017-0783).</p>,<p>Examples of impacted devices:</p>,<ul><li>Google Pixel</li><li>Samsung Galaxy</li><li>Samsung Galaxy Tab</li><li>LG Watch Sport</li><li>Pumpkin Car Audio System</li></ul>]]></description>
-            <link>https://thegrid.ai/mdno/bluetooth-vector-82-billions-infected-victims-unaware/index.html</link>
-            <guid isPermaLink="false">ccd71dd6-b83e-494f-bd1f-3c081d511fb9</guid>
-            <pubDate>Sun, 11 Feb 2018 05:44:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
