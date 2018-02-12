@@ -1,6 +1,6 @@
 ---
 title: 'Bluetooth Vector 8.2 billions infected ; victims unaware. '
-dateModified: '2018-02-11T05:44:04.172Z'
+dateModified: '2018-02-12T21:02:45.998Z'
 publisher: {}
 author:
   - name: Armis
@@ -15,11 +15,11 @@ description: >-
   endangered by at least one of the eight vulnerabilities. This covers a
   significant portion of all connected devices globally.
 via: {}
-datePublished: '2018-02-11T05:44:23.678Z'
+datePublished: '2018-02-12T21:02:49.308Z'
 hasPage: true
+sourcePath: _posts/2018-02-11-bluetooth-vector-82-billions-infected-victims-unaware.md
 starred: false
 datePublishedOriginal: '2018-02-11T05:44:23.678Z'
-sourcePath: _posts/2018-02-11-bluetooth-vector-82-billions-infected-victims-unaware.md
 url: bluetooth-vector-82-billions-infected-victims-unaware/index.html
 _type: Article
 _context: 'http://schema.org'
