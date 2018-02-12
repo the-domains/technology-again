@@ -18,14 +18,14 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://support.apple.com/en-us/HT208394'
 title: About speculative execution vulnerabilities in ARM-based and Intel CPUs
-datePublished: '2018-02-12T16:48:40.997Z'
-dateModified: '2018-02-11T04:56:21.699Z'
-datePublishedOriginal: '2018-02-12T16:48:40.997Z'
+datePublished: '2018-02-12T21:02:49.272Z'
+dateModified: '2018-02-12T21:02:45.998Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-02-12-about-speculative-execution-vulnerabilities-in-arm-based-and.md
+starred: false
+datePublishedOriginal: '2018-02-12T16:48:40.997Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
