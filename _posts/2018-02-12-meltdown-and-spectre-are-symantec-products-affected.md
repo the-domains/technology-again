@@ -12,13 +12,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://support.symantec.com/en_US/article.INFO4793.html'
 title: 'Meltdown and Spectre: Are Symantec Products Affected?'
-datePublished: '2018-02-12T16:48:43.637Z'
-dateModified: '2018-02-11T05:01:54.241Z'
-datePublishedOriginal: '2018-02-12T16:48:43.637Z'
+datePublished: '2018-02-12T21:02:49.177Z'
+dateModified: '2018-02-12T21:02:45.998Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-02-12-meltdown-and-spectre-are-symantec-products-affected.md
+starred: false
+datePublishedOriginal: '2018-02-12T16:48:43.637Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
