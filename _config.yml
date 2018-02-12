@@ -44,6 +44,9 @@ navigation:
   - name: Encryption Flaw Telegram / Whatsapp
     id: 9a921659-5d20-40ea-8838-e7bd66f75c6b
     type: content
+  - name: The Dreamer
+    id: 745ea8c5-acd9-4739-921a-d400c198a853
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
