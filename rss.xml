@@ -4,9 +4,9 @@
         <description><![CDATA[NOA'HOXY]]></description>
         <link>https://thegrid.ai/mdno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Feb 2018 16:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2018 16:48:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mdno/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Feb 2018 16:48:43 GMT</pubDate>
+        <pubDate>Mon, 12 Feb 2018 16:48:46 GMT</pubDate>
         <item>
             <title><![CDATA[Birthday Wish - Education Raising Fund by Mohd Noah]]></title>
             <description><![CDATA[<p>Thank you for those who have donated generously for my bday wish.</p>,<p> the lowest peak of my time. A time I believe giving back to society.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5593bfe49af8ae6d5e9749192c5f489e/noop?input=https%3A%2F%2Fwww.giving.sg%2Fimage%2Flogo%3Fimg_id%3D3372878"><h1>Birthday Wish - Education Raising Fund by Mohd Noah</h1><p>During my birthday 10 years ago. I wanted to persue my studies in Information Technology. My family could not afford to kick start the fee nor the daily expenditure . Yaysan Mendaki provided the schools fees ( 2800dlr ) for the 1st installment ..</p></article>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Mon, 29 Jan 2018 21:14:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Meltdown and Spectre: Are Symantec Products Affected?]]></title>
+            <description><![CDATA[<article><h1>Meltdown and Spectre: Are Symantec Products Affected?</h1><img src="https://www.symantec.com/content/dam/symantec/images/common/symantec-logo-top.png"></article>]]></description>
+            <link>https://support.symantec.com/en_US/article.INFO4793.html</link>
+            <guid isPermaLink="false">c81c6c34-0aca-419e-9ee7-57cc9abcbc0a</guid>
+            <pubDate>Mon, 12 Feb 2018 16:48:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[About speculative execution vulnerabilities in ARM-based and Intel CPUs]]></title>
             <description><![CDATA[<article><h1>About speculative execution vulnerabilities in ARM-based and Intel CPUs</h1><p>Updates: Apple has released security updates for macOS Sierra and El Capitan with mitigations for Meltdown. Apple has released updates for iOS, macOS High Sierra, and Safari on Sierra and El Capitan to help defend against Spectre. Apple Watch is unaffected by both Meltdown and Spectre.</p></article>]]></description>
             <link>https://support.apple.com/en-us/HT208394</link>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/mdno/bluetooth-vector-82-billions-infected-victims-unaware/index.html</link>
             <guid isPermaLink="false">ccd71dd6-b83e-494f-bd1f-3c081d511fb9</guid>
             <pubDate>Sun, 11 Feb 2018 05:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One year ago.. .]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fab73d923d48685581837e60d82edb11/croprotate.png?cropheight=116&cropwidth=934&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8f899cf0-8c6f-452a-a4ef-58dc3af76b1f.png&x=8&y=0">,<h1>One year ago.. .</h1>,<p> A friend of mine refuse to change his WhatsApp display photo. He says it's “ impossible” to get back.</p>,<p>After explaining , he was not conveince. I demostrated and within 15 minutes. A full resolution photo which I gain access and send it to him. Of course I end there . Hint2.</p>,<p>Those who knows me better knows I DISLIKE WhatsApp chatting and sharing personal information, taking photo of sensitive documents</p>,<p>Some may argue , but WhatsApp is encrypted. Haha. Strong True encryption are hardware base not software made. But is is possible software encryption are as good..not in WhatsApp thou</p>,<p>After leaving my old workforce. I was surprise to know the IT team swicth to WhatsApp as main mode to comms out.</p>,<p>Snapping photo sharing senstive info and more</p>,<p>This lead me to discuss with another friend which which “i” demo the possibility of gaining the entire WhatsApp log without “i' in the group chat.</p>,<p>A friend who has a degree in cyber forensic from the same organization did. Not even take action. Sad.</p>,<p>I mean no harm.thus I constant reminder my closer friends. Use another App. It's paid..it's truly safe. Encrypt PGP style.</p>,<p>Fast forward..here is the full news</p>]]></description>
-            <link>https://thegrid.ai/mdno/one-year-ago/index.html</link>
-            <guid isPermaLink="false">9a921659-5d20-40ea-8838-e7bd66f75c6b</guid>
-            <pubDate>Sun, 11 Feb 2018 05:27:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
