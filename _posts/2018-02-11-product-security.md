@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'https://www.nvidia.com/en-us/product-security/'
 title: Product Security
-dateModified: '2018-02-11T04:44:26.500Z'
+dateModified: '2018-02-12T21:02:45.998Z'
 publisher: {}
 author: []
 inFeed: true
@@ -9,7 +9,7 @@ description: >-
   Security Bulletin: NVIDIA Shield TV Security Updates for CPU Speculative Side
   Channel Vulnerability
 via: {}
-datePublished: '2018-02-11T04:46:00.701Z'
+datePublished: '2018-02-12T21:02:49.273Z'
 sourcePath: _posts/2018-02-11-product-security.md
 starred: false
 datePublishedOriginal: '2018-02-11T04:46:00.701Z'
