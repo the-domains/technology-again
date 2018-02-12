@@ -29,6 +29,9 @@ author:
 content_rating:
   adult: false
 navigation:
+  - name: ' Birthday Wish'
+    id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
+    type: content
   - name: Huawei ONT Critical Alert
     url: 'https://research.checkpoint.com/good-zero-day-skiddie/'
     type: external
@@ -40,9 +43,6 @@ navigation:
     type: content
   - name: Encryption Flaw Telegram / Whatsapp
     id: 9a921659-5d20-40ea-8838-e7bd66f75c6b
-    type: content
-  - name: ' Birthday Wish'
-    id: aa161e08-4493-44e3-bf9d-f7f9a6345da8
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
