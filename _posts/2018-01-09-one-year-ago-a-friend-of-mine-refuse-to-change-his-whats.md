@@ -1,16 +1,16 @@
 ---
 title: One year ago.. .
-datePublished: '2018-02-11T05:27:56.402Z'
-dateModified: '2018-02-11T05:27:56.055Z'
+datePublished: '2018-02-12T21:02:49.227Z'
+dateModified: '2018-02-12T21:02:45.998Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: ' A friend of mine refuse to change his WhatsApp display photo. He says it''s “ impossible” to get back.'
 via: {}
-sourcePath: _posts/2018-01-09-one-year-ago-a-friend-of-mine-refuse-to-change-his-whats.md
 starred: false
 datePublishedOriginal: '2018-02-11T05:27:56.402Z'
+sourcePath: _posts/2018-01-09-one-year-ago-a-friend-of-mine-refuse-to-change-his-whats.md
 url: one-year-ago/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -24,21 +24,7 @@ A friend of mine refuse to change his WhatsApp display photo. He says it's " imp
 
 After explaining , he was not conveince. I demostrated and within 15 minutes. A full resolution photo which I gain access and send it to him. Of course I end there . Hint2\.
 
-Those who knows me better knows I DISLIKE WhatsApp chatting and sharing personal information, taking photo of sensitive documents
-
-Some may argue , but WhatsApp is encrypted. Haha. Strong True encryption are hardware base not software made. But is is possible software encryption are as good..not in WhatsApp thou
-
-After leaving my old workforce. I was surprise to know the IT team swicth to WhatsApp as main mode to comms out.
-
-Snapping photo sharing senstive info and more
-
-This lead me to discuss with another friend which which "i" demo the possibility of gaining the entire WhatsApp log without "i' in the group chat.
-
-A friend who has a degree in cyber forensic from the same organization did. Not even take action. Sad.
-
-I mean no harm.thus I constant reminder my closer friends. Use another App. It's paid..it's truly safe. Encrypt PGP style.
-
-Fast forward..here is the full news
+Those who knows me better knows I DISLIKE WhatsApp chatting and sharing personal information, taking photo of es
 
 ---
 
