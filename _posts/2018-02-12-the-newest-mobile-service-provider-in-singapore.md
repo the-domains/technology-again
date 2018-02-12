@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'https://zero1.sg/about-us/'
 title: ' The Newest Mobile Service Provider in Singapore'
-dateModified: '2018-02-12T21:02:45.998Z'
+dateModified: '2018-02-12T21:03:06.722Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,10 +11,10 @@ description: >-
   that's unlimited data. We believe there is a better way to enjoy mobile
   services through better partnership, better networks and better content.
 via: {}
-datePublished: '2018-02-12T21:02:49.305Z'
+datePublished: '2018-02-12T21:03:07.096Z'
 sourcePath: _posts/2018-02-12-the-newest-mobile-service-provider-in-singapore.md
+datePublishedOriginal: '2018-02-12T21:03:07.096Z'
 starred: false
-datePublishedOriginal: '2018-02-12T21:01:05.356Z'
 _type: Article
 _context: 'http://schema.org'
 
