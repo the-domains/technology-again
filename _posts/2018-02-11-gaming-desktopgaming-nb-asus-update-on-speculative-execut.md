@@ -4,13 +4,13 @@ title: >-
   [Gaming Desktop/Gaming NB] ASUS Update on speculative execution and indirect
   branch prediction side channel analysis method | Official Support | ASUS
   Global
-dateModified: '2018-02-11T04:53:58.042Z'
+datePublished: '2018-02-12T21:02:49.302Z'
+dateModified: '2018-02-12T21:02:45.998Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2018-02-11T04:54:02.404Z'
 starred: false
 datePublishedOriginal: '2018-02-11T04:54:02.404Z'
 sourcePath: _posts/2018-02-11-gaming-desktopgaming-nb-asus-update-on-speculative-execut.md
