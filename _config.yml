@@ -1,5 +1,13 @@
+name: the typo king
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fee80ae-69b7-4ef0-8052-80fb018bc054.webp
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/932f8419-247c-4ce8-8c7f-3d875e935845.webp
 layout_spectrum: 0.034697810844656556
 typography_spectrum: 0.7465181906966696
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#2C3E50'
@@ -11,10 +19,6 @@ color:
   lightness: 0.8749367856999656
   saturation: 0.19719497920853077
   rhythmicContrast: 0.1728572111496573
-name: the typo king
-opengraph:
-  type: ''
-  appId: ''
 purpose:
   - type: internal
     label: Helmy
@@ -22,10 +26,11 @@ purpose:
   - type: internal
     label: Direct
     item: 745ea8c5-acd9-4739-921a-d400c198a853
-title: NOA'HOXY
-description: If Noah Than Noah
+title: Tech Logician
+description: .
 author:
-  name: mdno
+  name: Noah M
+  email: norelply@.com
 content_rating:
   adult: false
 navigation:
