@@ -1,5 +1,5 @@
-layout_spectrum: 0.12781294636170168
-typography_spectrum: 0.37881796662631156
+layout_spectrum: 0.3567645503590713
+typography_spectrum: 0.4048118818477534
 color:
   brandColors:
     - '#E1E6FA'
@@ -7,10 +7,10 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-  brandStrength: 0.7939195370431621
-  lightness: 0.541141231389495
-  saturation: 0.09089861217213074
-  rhythmicContrast: 0.41299919396869395
+  brandStrength: 0.5576303628139604
+  lightness: 0.1594648825424253
+  saturation: 0.7849386234207097
+  rhythmicContrast: 0.47616324297382984
 name: If Noah Than Noah
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fee80ae-69b7-4ef0-8052-80fb018bc054.webp
