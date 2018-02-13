@@ -1,24 +1,24 @@
+layout_spectrum: 0.12781294636170168
+typography_spectrum: 0.37881796662631156
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.7939195370431621
+  lightness: 0.541141231389495
+  saturation: 0.09089861217213074
+  rhythmicContrast: 0.41299919396869395
 name: If Noah Than Noah
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fee80ae-69b7-4ef0-8052-80fb018bc054.webp
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/932f8419-247c-4ce8-8c7f-3d875e935845.webp
-layout_spectrum: 0.034697810844656556
-typography_spectrum: 0.7465181906966696
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.8046643285002413
-  lightness: 0.8749367856999656
-  saturation: 0.19719497920853077
-  rhythmicContrast: 0.1728572111496573
 purpose:
   - type: internal
     label: Helmy
