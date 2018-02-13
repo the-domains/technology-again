@@ -1,4 +1,4 @@
-name: the typo king
+name: If Noah Than Noah
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fee80ae-69b7-4ef0-8052-80fb018bc054.webp
 logo: >-
@@ -40,12 +40,12 @@ navigation:
   - name: Huawei ONT Critical Alert
     url: 'https://research.checkpoint.com/good-zero-day-skiddie/'
     type: external
-  - name: Meltdown Spectrum
-    url: 'https://meltdownattack.com'
-    type: external
   - name: Blueborne Spectrum
     id: ccd71dd6-b83e-494f-bd1f-3c081d511fb9
     type: content
+  - name: Meltdown Spectrum
+    url: 'https://meltdownattack.com'
+    type: external
   - name: Encryption Flaw Telegram / Whatsapp
     id: 9a921659-5d20-40ea-8838-e7bd66f75c6b
     type: content
